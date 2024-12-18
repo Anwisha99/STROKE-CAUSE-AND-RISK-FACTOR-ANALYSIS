@@ -34,7 +34,7 @@ Includes median and mean values.
 A scatter plot visualizing stroke rates across age groups, categorized by hypertension status.
 Filters
 
-The dashboard includes the following filter options for interactive exploration:
+# The dashboard includes the following filter options for interactive exploration:
 
 Age Risk:
 High-Age-Risk
@@ -53,4 +53,4 @@ Review correlations between age, glucose levels, BMI, hypertension, and heart di
 The visualizations provide actionable insights into factors contributing to stroke risks.
 Dependencies
 
-# This dashboard was created using Power BI.
+This dashboard was created using Power BI.
