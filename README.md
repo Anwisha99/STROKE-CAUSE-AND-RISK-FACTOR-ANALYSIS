@@ -36,15 +36,15 @@ Filters
 
 The dashboard includes the following filter options for interactive exploration:
 
-# Age Risk:
-# High-Age-Risk
-# Low-Age-Risk
-# Hypertension:
-# Toggle between 0 (No) and 1 (Yes)
-# Heart Disease:
-# Toggle between 0 (No) and 1 (Yes)
-# BMI Range:
-# Adjustable range slider (10.30 to 97.60)
+ Age Risk:
+ High-Age-Risk
+ Low-Age-Risk
+ Hypertension:
+ Toggle between 0 (No) and 1 (Yes)
+ Heart Disease:
+ Toggle between 0 (No) and 1 (Yes)
+ BMI Range:
+ Adjustable range slider (10.30 to 97.60)
 
 # Usage
 
