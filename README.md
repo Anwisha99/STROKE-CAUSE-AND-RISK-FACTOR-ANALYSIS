@@ -4,6 +4,8 @@
 
 This dashboard provides insights into stroke causes and associated risk factors using visualizations and statistics derived from the dataset. It highlights stroke rates, heart disease rates, hypertension rates, glucose levels, BMI, age-related risks, and their correlations with stroke occurrence.
 
+<img src = "https://github.com/Anwisha99/STROKE-CAUSE-AND-RISK-FACTOR-ANALYSIS/blob/main/DASHBOARD.png" width="850" height="500" alt="report1"/> &emsp;
+
 # Key Metrics
 
 The dashboard includes the following summarized statistics:
